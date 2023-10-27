@@ -23,7 +23,7 @@ spec:
         app: nginx-deployment
     spec:
       containers:
-      - image: nginx:alpine-slim
+      - image: nginxdemos/hello:0.3
         name: nginx
         resources: {}
 status: {}
