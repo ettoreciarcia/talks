@@ -1,4 +1,3 @@
-# kubernetes-version?=v1.26.3
 kubernetes-version?=v1.27.6
 driver?=parallels
 memory?=4096
