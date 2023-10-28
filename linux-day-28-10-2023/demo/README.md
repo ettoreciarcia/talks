@@ -15,7 +15,7 @@
 
 ## Architecture
 
-[TBD]
+![architecture](img/architecture.png)
 
 ## Walkthrough
 
