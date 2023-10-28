@@ -1,6 +1,6 @@
 #!/bin/bash
 
-duration=5
+duration=30
 end_time=$((SECONDS + duration))
 lost_seconds=0
 
