@@ -1,5 +1,5 @@
 kubernetes-version?=v1.27.6
-driver?=parallels
+driver?=virtualbox
 memory?=4096
 cpu?=4
 nodes?=2
