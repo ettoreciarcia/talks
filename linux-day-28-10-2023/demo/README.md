@@ -5,7 +5,7 @@
 - [Minikube](https://github.com/kubernetes/minikube)
 - [kubectl](https://kubernetes.io/docs/tasks/tools/)
 - [Helm](https://helm.sh/)
-- Hypervisor (Parallels, Hyperkit, VirtualBox)
+- Default hypervisor: virtualbox (others Hyperkit, Parallels) 
 
 ## What we are going to install in our cluster
 
